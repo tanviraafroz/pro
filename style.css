@@ -1,0 +1,41 @@
+section{
+    background-color: rgb(231, 224, 224);
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 50px;
+  
+    border-radius: 360px;
+    border: 100px;
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.2); 
+    
+    
+}
+section:hover{
+    background-color: rgb(209, 205, 205);
+}
+body{
+    background-color: blanchedalmond;
+}
+#currentTime{
+    font-size: 30px;
+    
+    
+}
+   button:hover{
+   background-color: black;
+   color: white;
+
+}
+
+ 
+ 
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(75, 73, 73);
+    margin-top: 90px;
+}
+
